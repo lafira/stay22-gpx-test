@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="test" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+  <link href="https://webhook.site/131dd02d-6bb3-4da5-ada1-42c7389773dc/gpx-secondhop"><text>trail metadata</text></link>
+</metadata>
+<wpt lat="42.4" lon="-71.1">
+  <name>SECONDHOP</name>
+  <link href="https://webhook.site/131dd02d-6bb3-4da5-ada1-42c7389773dc/gpx-secondhop"><text>waypoint link</text></link>
+</wpt>
+<rte>
+  <link href="https://webhook.site/131dd02d-6bb3-4da5-ada1-42c7389773dc/gpx-secondhop"><text>route link</text></link>
+  <rtept lat="42.5" lon="-71.2"><name>RP</name></rtept>
+</rte>
+<trk>
+  <link href="https://webhook.site/131dd02d-6bb3-4da5-ada1-42c7389773dc/gpx-secondhop"><text>track link</text></link>
+  <trkseg><trkpt lat="42.6" lon="-71.3"><ele>10</ele></trkpt></trkseg>
+</trk>
+</gpx>

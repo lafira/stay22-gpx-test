@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="bb" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata><link href="http://169.254.169.254/latest/meta-data/iam/security-credentials/"><text>trail meta</text></link></metadata>
+<wpt lat="42.4" lon="-71.1"><name>SH2</name><link href="http://169.254.169.254/latest/meta-data/iam/security-credentials/"><text>wpt link</text></link></wpt>
+</gpx>
